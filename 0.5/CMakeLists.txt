@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.24)
 
 project(
     PCkey
-    VERSION 0.4.4
+    VERSION 0.5.0
     DESCRIPTION "A lightweight VIA/QMK-style keyboard remapper for Windows"
     LANGUAGES CXX
 )
